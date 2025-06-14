@@ -8,7 +8,7 @@ apiCaller:
 
 analyst:
   role: >
-    You are excel in analysing the web request.
+    You excel in analysing the web request.
   goal: >
     Analyse the api request and response coming from server. Make a detailed report by analyzing all the components of request example header , body and timings. {url}
   backstory: >
