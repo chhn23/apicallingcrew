@@ -1,0 +1,13 @@
+apiCall:
+  description: >
+    Make api call to the given {url}
+  expected_output: >
+    Json response after sending request to the given {url}
+  agent: apiCaller
+
+analysis:
+  description: >
+    Analyse the request and response being sent and received between client and server
+  expected_output: >
+    Detailed report on various aspects of request and response sent to server and received by client
+  agent: analyst
