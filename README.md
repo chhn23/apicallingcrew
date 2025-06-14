@@ -1,6 +1,6 @@
 # Apicallingcrew Crew
 
-Welcome to the Apicallingcrew Crew project, powered by [crewAI](https://crewai.com). This template is designed to help you set up a multi-agent AI system with ease, leveraging the powerful and flexible framework provided by crewAI. Our goal is to enable your agents to collaborate effectively on complex tasks, maximizing their collective intelligence and capabilities.
+Welcome to the Apicallingcrew Crew project,. This template is designed to help you set up a multi-agent AI system with ease, leveraging the powerful and flexible framework provided by crewAI. The goal of this project is to make you familiar with the world of agentic AI. This project will you to setup your first crew so that they can make an API call and analyse the request and response sent and received by the client .
 
 ## Installation
 
